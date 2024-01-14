@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_known_verbs"
+        android:title="Conocidos" />
+    <item
+        android:id="@+id/action_unknown_verbs"
+        android:title="Por Aprender" />
+</menu>

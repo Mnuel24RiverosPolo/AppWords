@@ -1,0 +1,29 @@
+<!-- res/layout/item_verbo.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewInfinitivo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="hola"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/textViewSignificado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="hola"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/textViewStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="p"
+        android:textSize="16sp"/>
+</LinearLayout>
